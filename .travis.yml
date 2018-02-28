@@ -1,5 +1,7 @@
 language: go
 
+os: s390x
+
 script:
     - go build
     - ./hello_cgo
