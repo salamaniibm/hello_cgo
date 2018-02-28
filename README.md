@@ -1,4 +1,6 @@
-[![Build Status](https://semaphoreci.com/api/v1/salamaniibm/hello_cgo/branches/master/badge.svg)](https://semaphoreci.com/salamaniibm/hello_cgo)
+[![Build Status](https://semaphoreci.com/api/v1/salamaniibm/hello_cgo/branches/master/badge.svg)](https://semaphoreci.com/salamaniibm/hello_cgo)   
+
+[![Build Status](https://travis-ci.org/salamaniibm/hello_cgo.svg?branch=master)](https://travis-ci.org/salamaniibm/hello_cgo)
 
 # hello_cgo
 
